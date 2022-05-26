@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Miguel</h1>
-<h3 align="center">Soy un apasionado ingeniero informático de León. Me definiría a mi mismo como Emprendedor Social</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikii121&label=Profile%20views&color=0e75b6&style=flat" alt="mikii121" /> </p>
+<h3 align="center">Soy un apasionado ingeniero informático de León. Me definiría a mi mismo como Emprendedor Social.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikii121" alt="mikii121" /></a> </p>
 
