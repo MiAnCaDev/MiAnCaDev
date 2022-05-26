@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Yo soy Miguel</h1>
 <h3 align="center">Soy un apasionado ingeniero informático de León. Me definiría a mi mismo como Emprendedor Social.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikii121" alt="mikii121" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikii121&label=Profile%20views&color=0e75b6&style=flat" alt="mikii121" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikii121" alt="mikii121" /></a> </p> -->
 
 - 🌱 Actualmente estoy aprendiendo **Python**
 
@@ -20,3 +22,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mac121"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mac121" /></a></p><br><br>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikii121&show_icons=true&locale=en&layout=compact" alt="mikii121" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikii121&show_icons=true&locale=en" alt="mikii121" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikii121&" alt="mikii121" /></p> -->
