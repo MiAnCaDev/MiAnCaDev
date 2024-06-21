@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/miguel-ac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ac/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/miguel.andrescaballero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miguel.andrescaballero" height="30" width="40" /></a>
+<a href="https://x.com/MiAnCa_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mianca.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://blog.miguelandrescaballero.es/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="wordpress" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
